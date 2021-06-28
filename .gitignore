@@ -1,8 +1,7 @@
 # OSX
 #
 .DS_Store
-# dependencies
-/node_modules
+
 # Xcode
 #
 build/
